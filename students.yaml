@@ -1,0 +1,28 @@
+- name: "pydiraju"
+  dob: "1-2-200"
+  mobilenumber: 9381004224
+  address:
+  - flatnumber: 2-45
+    street: "gandhi nagar" 
+    city: "guntur"
+    type: "cutrrent"
+  
+  - flatnumber: 2-45
+    street: "gandhi nagar" 
+    city: "guntur"
+    type: "permenent"
+  
+- name: "ravi"
+  dob: "1-2-200"
+  mobilenumber: 9381004224
+  address:
+  - flatnumber: 2-45
+    street: "gandhi nagar" 
+    city: "guntur"
+    type: "cutrrent"
+  
+  - flatnumber: 2-45
+    street: "gandhi nagar" 
+    city: "guntur"
+    type: "permenent"
+  
